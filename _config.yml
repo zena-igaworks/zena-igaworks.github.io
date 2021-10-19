@@ -4,9 +4,16 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
+# 번역)
+# 이 구성 파일은 전체 블로그, 가치에 영향을 미치는 설정을 위한 것입니다.
+# 한 번 설정하고 그 후에는 거의 편집하지 않을 것으로 예상됩니다. 찾으면 이 파일을 자주 편집하는 경우
+# jekyll의 데이터 파일 사용을 고려하십시오. 자주 업데이트 해야하는 데이터에 대한 기능입니다.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 번역)
+# 기술적인 이유로, 이 파일은 'bundle exec jekyll serve' 사용할 때 자동으로 다시 로드되지 *않습니다*
+# 이 파일을 변경하는 경우 서버 프로세스를 다시 시작하십시오.
 #
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
@@ -17,6 +24,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# 번역)
+# 사이트 세팅
+# 이는 새 사이트를 개인화하는 데 사용됩니다. html파일을 보면,
+# {{ site.title }}, {{ site.email }} 등을 통해 액세스한 것을 볼 수 있습니다.
+# 원하는 맞춤 변수를 만들 수 있으며 {{ site.myvariable }}을 통해 템플릿에서 엑세스 할 수 있습니다.
+#
 
 title: Styleworks
 email: design@igaworks.com
