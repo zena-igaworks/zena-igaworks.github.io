@@ -50,9 +50,13 @@ plugins:
 
 # Collections
 collections:
+  foundations:
+    output: true
+    permalink: /foundations/:path/
   components:
     output: true
-    permalink: /components/:path
+    permalink: /components/:path/
+
 
 
 

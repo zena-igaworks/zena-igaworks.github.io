@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8522eb3-095d-4e1c-9947-e61490f07c54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_components/components.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_components/forms/overview.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_components/index.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_foundations/index.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7b/d0c7d8b3566185414d3f2ca4c2e0eaa5ea544809f73cc07daacb99b4a25817" beforeDir="false" />
@@ -10,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2021/10/20/post-test.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <workItem from="1634691299600" duration="3368000" />
       <workItem from="1634695193764" duration="4333000" />
       <workItem from="1634779294086" duration="9604000" />
-      <workItem from="1634797704583" duration="1571000" />
+      <workItem from="1634797704583" duration="4258000" />
     </task>
     <servers />
   </component>
