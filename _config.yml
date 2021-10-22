@@ -52,7 +52,7 @@ plugins:
 collections:
   docs:
     output: true
-    permalink: /docs/:path/
+    permalink: /docs/:path
 
 
 
