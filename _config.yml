@@ -47,6 +47,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Style
+sass:
+  sass_dir: sass
 
 # Collections
 collections:

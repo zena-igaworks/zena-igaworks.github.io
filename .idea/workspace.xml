@@ -3,15 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="e8522eb3-095d-4e1c-9947-e61490f07c54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/18/e1d5e268dc1f2496aa2e11af56e2523c374e0400b6b2111b58ae247ac018f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/37/46b48dafdcbf501da678de492c73346e0a97f5169440ed979beb3ec12e6ac8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/46/8a3b8b36f3b8365003a5633b5aa65ca0d13aa52faa3c7eb0f41ea7822c1595" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5a/b33688ff02dffb5fbc6372f129d1551883a00af46707de133fb0c339d91f1d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c6/b00ad98fa8feca47ffda723ab1e12ef0e828f5e81c28fe543c5e77b3ddedc9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ec/c5377739a831a81696f7ae1d29ef4b00c314c81256494760f456e95b105c53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ed/4600fa975fc07d578de56a35a9b30088694aeb51517e5d7181a32f6e8bc792" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ef/e6f809d74f31efac3dc874186470cfb48e9154da28ce9aa43c694f71c01370" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_docs/buttons.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_docs/buttons.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_docs/components.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_docs/forms.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_docs/forms.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/document.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/document.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/docs/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/forms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +78,7 @@
       <workItem from="1634779294086" duration="9604000" />
       <workItem from="1634797704583" duration="5107000" />
       <workItem from="1634865574564" duration="9058000" />
-      <workItem from="1635123126425" duration="9334000" />
+      <workItem from="1635123126425" duration="10458000" />
     </task>
     <servers />
   </component>
