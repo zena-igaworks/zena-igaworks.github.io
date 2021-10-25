@@ -1,7 +1,7 @@
----  
-layout: document
-title: Documentation Index
 ---
+layout: document
+---
+
 
 스타일웍스 컴포넌트 문서 작업에 접근하셨네요.
 

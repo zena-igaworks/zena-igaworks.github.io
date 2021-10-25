@@ -1,8 +1,6 @@
 ---
 layout: document
-title:  "Buttons"
 ---
-
 
 
 버튼 페이지 테스트중~.
