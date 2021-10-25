@@ -1,6 +1,6 @@
 ---
 layout: document
-title:  "Components" 
+title:  Components
 ---
 
 컬렉션 테스트중~.
