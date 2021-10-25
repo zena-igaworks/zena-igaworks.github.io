@@ -1,0 +1,88 @@
+
+
+
+.tab {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+}
+
+
+.tab-nav {
+  list-style: none;
+  padding: 0;
+  border-bottom: $border-width solid $border-color;
+
+  .tab-item {
+    color: $body-color;
+    display: flex;
+    align-items: stretch;
+    .tab-link {
+      align-self: center;
+      color: $body-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.tab-item {
+  display: inline-block;
+  padding: $tab-nav-padding-y $tab-nav-padding-x;
+}
+
+.tab-item.is-active {
+  font-weight: $font-weight-bold;
+  position: relative;
+  &:after {
+    position: absolute;
+    content:"";
+    display: block;
+    height: 2px;
+    background-color: $primary;
+    bottom: -$border-width;
+    left: $tab-nav-padding-x / 2;
+    right: $tab-nav-padding-x / 2;
+  }
+  .tab-link {
+    color: $primary;
+  }
+}
+
+//
+// bootstrap js를 사용중으로 스타일 추가함.
+//
+.nav-tabs {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  flex-wrap: wrap;
+  border-bottom: $border-width solid $border-color;
+  .nav-item {
+    display: flex;
+    align-items: stretch;
+    .nav-link {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: $tab-nav-padding-y $tab-nav-padding-x;
+      border-color: transparent;
+      color: $body-color;
+      &.active {
+        position: relative;
+        border-color: transparent;
+        background-color: transparent;
+        &:after {
+          content: " ";
+          display: block;
+          position: absolute;
+          bottom: -$border-width;
+          right: $tab-nav-padding-x / 2;
+          left: $tab-nav-padding-x / 2;
+          border-bottom: 2px solid $primary;
+          color: $primary;
+        }
+      }
+    }
+  }
+}

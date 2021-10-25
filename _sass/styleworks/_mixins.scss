@@ -1,0 +1,26 @@
+
+///
+/// Mixins
+///
+
+// Grid system mixins
+@import 'mixins/breakpoints',
+'mixins/container',
+'mixins/grid'
+;
+
+// Components minxins
+@import 'mixins/deprecate',
+'mixins/clearfix',
+'mixins/hover',
+'mixins/border-radius',
+'mixins/gradients',
+'mixins/box-shadow',
+'mixins/transition',
+'mixins/caret'
+;
+
+// Forms mixins
+@import 'mixins/buttons',
+'mixins/forms'
+;

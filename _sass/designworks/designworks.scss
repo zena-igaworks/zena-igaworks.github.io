@@ -1,0 +1,22 @@
+
+header.sw-header {
+  background-color: var(--gray-50);
+  .container,
+  .container-fluid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    @extend .p-2;
+  }
+}
+
+main.sw-main {
+  @extend .pt-3;
+  @extend .pb-3;
+}
+
+footer.sw-footer {
+  border-top: $border-width solid var(--gray-100);
+  color: var(--gray-500);
+}
