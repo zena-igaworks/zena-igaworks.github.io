@@ -2,8 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8522eb3-095d-4e1c-9947-e61490f07c54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0b/4842ab6db36fe6ed779a2d5d1e5b2f96e483376f28fbc96415ea78e4d9e662" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/14/ef56470b593f7f67d435b3e66a83d3e0b5ca09290816ca0d379bd3ea8e69d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/25/5505d805a74a61864724de04c1e22bfdd6460fdf3a6c1ee57b11297c32d6d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/30/c5b2152593b269e676eec8a02daea77c3aae0f5950d059779702c4e9fd7cba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/32/6e7540a5697d300b1ce20796596e772795deae7617b0ac2d43b85160abe8b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3a/62e37908342b5f42a213e794e07c2706c71d28ef79a0fd016c6be88316a6e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4a/c5ab427fc108b007796069699c52c83ddb98ee371f1cc21212f209c333dcb4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4e/fca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5b/c03b4caedd14ca7c6ad3fc0a8cea9c4435beed950f269b12c3ee81d33c4d66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/64/415bb89c72690689066a644c02dc1765220435c5afc43641ea8ae770a61c01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/65/22204a0d7c0f7e51e960d97aacb3f1806b25e69f1dc88b2c2d13b34d830d52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/76/5c13e76b127c4839aa74a1e3a65cb753515dfa7d50569fc138126d24a18442" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a1/50ce22160259313c47bc66940b905a9c2196924fd447f802cff12dbb1e9702" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ab/06edbfb6c7ecf994156cd68aed94b4af6d12493945537c964cf738ee793f02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ab/4d1170067708046158b788af3b62bcde979f97b2af1682716ebf7336a4328c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ac/61ab33993bba3e1c7bdd6cdc2a4ab0b8a9c36c4df7625c576a0527c8f11bb1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/af/9f922ccec1da2fa6f990b033d7bb1109dad98665d1a1b9f522126c0db94dfd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d4/52583a74d0e772db89d8f783831098869148222427750bedecc4a1b50380b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d4/b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f0/68bc246643ee4cb910622b0f533787e9a069259e8ab7d7b29d48ffa39680be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f4/0c375c86d4562e1f177bbe24689e7437a4cd8a32a0eabb03522e3dec2682b6" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_docs/buttons.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_docs/buttons.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_docs/components.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_docs/components.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_docs/forms/overview.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_docs/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_docs/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/draft-test.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/forms/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2021/10/18/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2021/10/18/welcome-to-jekyll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2021/10/20/post-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2021/10/20/post-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +55,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="SCSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -31,6 +74,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,6 +85,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_sass" />
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/_docs" />
     </key>
   </component>
@@ -57,7 +103,8 @@
       <workItem from="1634695193764" duration="4333000" />
       <workItem from="1634779294086" duration="9604000" />
       <workItem from="1634797704583" duration="5107000" />
-      <workItem from="1634865574564" duration="685000" />
+      <workItem from="1634865574564" duration="9058000" />
+      <workItem from="1635123126425" duration="5420000" />
     </task>
     <servers />
   </component>
