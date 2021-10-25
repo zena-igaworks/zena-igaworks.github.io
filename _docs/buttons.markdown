@@ -1,7 +1,10 @@
 ---
 layout: document
+title: "Buttons"
+date:   2021-10-25
+categories: components
 ---
-
+ 
 
 버튼 페이지 테스트중~.
 

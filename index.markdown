@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <h1>Docs</h1>
 {% for docs in site.docs %}
 <ul>
